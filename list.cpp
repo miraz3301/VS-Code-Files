@@ -13,5 +13,5 @@ int main()
     l2.clear();
     //if(l2.empty())cout<<"empty"<<endl;
     for(int val:l2)cout<<val<<endl;
-    if()
+    
 }
